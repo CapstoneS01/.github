@@ -7,4 +7,6 @@ Whether it be from being too adventurous while hiking, running away from a terri
 
 Click the video below to view our project demo 
 
-<a href="https://youtu.be/jSdw9nCCPIk" ><img width="1262" alt="Screenshot 2023-04-10 at 5 12 39 PM" src="https://user-images.githubusercontent.com/59986120/230999953-f66bd020-8464-40d8-86d5-9c6707ca4518.png"></a>
+<a href="https://youtu.be/jSdw9nCCPIk" >
+![Untitled](https://user-images.githubusercontent.com/59986120/231024692-dfe36041-dc34-4aa5-a38c-d18a6c63b09f.png)
+</a>
