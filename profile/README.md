@@ -8,5 +8,5 @@ Whether it be from being too adventurous while hiking, running away from a terri
 Click the video below to view our project demo 
 
 <a href="https://youtu.be/jSdw9nCCPIk" >
-![Untitled](https://user-images.githubusercontent.com/59986120/231024692-dfe36041-dc34-4aa5-a38c-d18a6c63b09f.png)
+  <img src="https://user-images.githubusercontent.com/59986120/231024692-dfe36041-dc34-4aa5-a38c-d18a6c63b09f.png"/>
 </a>
